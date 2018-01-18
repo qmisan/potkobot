@@ -14,3 +14,7 @@ pip install -r requirements.txt
 ´´´
 
 VOLA you are ready to dev ;)
+
+## Some info
+Will be using python telegram API called python-telegram-bot.
+More info here: https://python-telegram-bot.org/
